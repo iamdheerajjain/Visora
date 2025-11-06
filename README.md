@@ -425,29 +425,6 @@ visora/
 3. Check Python version (3.8+ required):
    ```bash
    python --version
-   ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create a feature branch**:
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes** and test thoroughly
-4. **Commit your changes**:
-   ```bash
-   git commit -m "Add amazing feature"
-   ```
-5. **Push to the branch**:
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
 
 ### Development Setup
 
@@ -474,38 +451,3 @@ python test_camera.py
 - Use type hints where appropriate
 - Add docstrings to all functions and classes
 - Keep functions focused and modular
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics) for YOLOv8
-- [OpenCV](https://opencv.org/) for computer vision capabilities
-- [Streamlit](https://streamlit.io/) for the web framework
-- [PyTorch](https://pytorch.org/) for deep learning infrastructure
-
----
-
-## 📞 Support
-
-For issues, questions, or contributions:
-
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/visora/issues)
-- **Documentation**: Check this README and code comments
-- **Community**: Join discussions in the repository
-
----
-
-<div align="center">
-
-**Made with ❤️ for the visually impaired community**
-
-[⬆ Back to Top](#-visora---vision-assistance-system)
-
-</div>
