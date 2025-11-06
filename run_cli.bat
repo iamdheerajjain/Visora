@@ -1,0 +1,6 @@
+@echo off
+echo Starting Visora CLI Application...
+echo Make sure you have installed the requirements first: pip install -r requirements.txt
+echo.
+echo Starting CLI application...
+python -m app.main --mode cli
